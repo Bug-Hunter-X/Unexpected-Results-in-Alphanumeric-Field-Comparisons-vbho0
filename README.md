@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs involving the comparison of alphanumeric fields.  The example highlights how trailing spaces in these fields can affect the comparison results and lead to unexpected program behavior. The solution shows how to handle such situations properly.
